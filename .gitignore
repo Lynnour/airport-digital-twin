@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.vscode/
+.streamlit/secrets.toml
+data/simulation_results_backup.csv

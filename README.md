@@ -184,3 +184,26 @@ The framework demonstrates industrial engineering methods applicable to:
 - Capacity planning
 - Simulation-based optimization
 - Operational decision support
+---
+
+## Interactive Dashboard
+
+The Streamlit dashboard provides an interactive interface for exploring simulation results, evaluating staffing configurations, and analyzing operational performance.
+
+### Optimization Overview
+![Optimization Overview](images/dashboard_overview.png)
+
+### Passenger Flow Analysis
+![Passenger Flow Analysis](images/passenger_analysis.png)
+
+### Staffing Configuration Comparison
+![Staffing Configuration Comparison](images/staffing_configuration_comparison.png)
+
+### Staffing Scenario Comparison
+![Staffing Scenario Comparison](images/staffing_scenario_comparison.png)
+
+### Economic Sensitivity Analysis
+![Economic Sensitivity Analysis](images/economic_sensitivity.png)
+
+### Staffing Sensitivity Analysis
+![Staffing Sensitivity Analysis](images/staffing_sensitivity.png)

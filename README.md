@@ -1,7 +1,7 @@
 # Airport Digital Twin
 ### Live Interactive Dashboard
 
-🚀 [Launch Airport Digital Twin Dashboard](https://airport-digital-twin.streamlit.app/)
+[Explore The Interactive Dashboard](https://airport-digital-twin.streamlit.app/)
 
 Explore staffing optimization, passenger-flow analysis, scenario comparisons, and economic sensitivity through an interactive Streamlit application.
 ### Simulation-Based Staffing Optimization & Decision Support
